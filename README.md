@@ -19,7 +19,7 @@ I'm a brazilian computer science student that loves C language and pasta. Always
 ##
 
 <div align="center"> 
-  <a href="https://www.youtube.com/channel/UCKV6skzLkjBmvOWPWd75YSQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCKV6skzLkjBmvOWPWd75YSQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
  <a href="https://discordapp.com/users/874361053994176542" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://twitter.com/Equiel_1703"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-gabriel-rod/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
