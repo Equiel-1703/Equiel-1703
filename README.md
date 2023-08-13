@@ -1,6 +1,6 @@
 # Hello! I'm Henrique Rodrigues!
 
-I'm a brazilian computer science student that loves C language and pasta. Always looking forward to learn something new! 
+Always looking forward to learn something new!
 
 
 <div align="center">
