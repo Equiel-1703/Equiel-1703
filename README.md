@@ -4,7 +4,6 @@ Always looking forward to learn something new!
 
 <!-- Github stats -->
 <div align="center">
-  <a href="https://github.com/Equiel-1703">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Equiel-1703&show_icons=true&theme=dracula&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Equiel-1703&layout=compact&langs_count=9&theme=dracula"/>
 </div>
