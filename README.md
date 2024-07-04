@@ -11,7 +11,7 @@ Always looking forward to learn something new!
 <br/>
 
 <!-- Languages Icons -->
-<div style="display: inline_block" align="center">
+<div style="display: block;" align="center">
   <img align="center" alt="Rust" height="50" width="50" src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/>
   <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
   <img align="center" alt="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
@@ -21,6 +21,8 @@ Always looking forward to learn something new!
   <img align="center" alt="Elixir" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/>
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="HTML 5" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  <img align="center" alt="CSS 3" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
+  <img align="center" alt="JavaScript" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
 </div>
 
 ##
