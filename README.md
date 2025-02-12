@@ -1,4 +1,4 @@
-# Hello! I'm Henrique Rodrigues 💻
+# Hello! I'm Henrique Rodrigues 💻🤓
 
 I'm a passionate developer with a strong foundation in low-level programming, especially in C and C++, with a special focus on parallel programming (OpenMP and pthreads).
 
