@@ -1,6 +1,6 @@
 # Hello! I'm Henrique Rodrigues 🤓 💻
 
-I'm a passionate developer with a strong foundation in low-level programming, especially in C and C++, with a special focus on parallel programming (OpenMP and pthreads).
+I'm a passionate developer with strong foundation in low-level programming, especially in C and C++, with focus on parallel and heterogeneous programming.
 
 I also have solid experience with Computer Graphics with WebGL, Java and web development with HTML5, CSS, and JavaScript.
 
