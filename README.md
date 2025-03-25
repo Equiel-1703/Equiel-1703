@@ -2,7 +2,7 @@
 
 I'm a passionate developer with strong foundation in low-level programming, especially in C and C++, with focus on parallel and heterogeneous programming.
 
-I also have solid experience with Computer Graphics with WebGL, Java and web development with HTML5, CSS, and JavaScript.
+I also have solid experience in Computer Graphics with WebGL, Java programming, functional programming and web development with HTML5, CSS, and JavaScript.
 
 🚀 Always coding something cool!
 
