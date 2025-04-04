@@ -1,10 +1,17 @@
-# Hello! I'm Henrique Rodrigues 🤓 💻
+<div align="center">
+  <h1>Hello! I'm Henrique Rodrigues 🤓 💻</h1>
+</div>
 
 I'm a passionate developer with strong foundation in low-level programming, especially in C and C++, with focus on parallel and heterogeneous programming.
 
 I also have solid experience in Computer Graphics with WebGL, Java programming, functional programming and web development with HTML5, CSS, and JavaScript.
 
-🚀 Always coding something cool!
+<div align="center">
+  <i>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."</i>
+  ― <b>Linus Torvalds</b>
+</div>
+
+<br/>
 
 <!-- Github stats -->
 <div align="center">
@@ -15,7 +22,11 @@ I also have solid experience in Computer Graphics with WebGL, Java programming, 
 <br/>
 
 <!-- Languages Icons -->
-<div style="display: block;" align="center">
+<div align="center">
+  <h2>Tools I use</h2>
+</div>
+
+<div style="display: block;background-color: red;" align="center">
   <img align="center" alt="Rust" height="50" width="50" src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/>
   <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
   <img align="center" alt="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
@@ -29,11 +40,17 @@ I also have solid experience in Computer Graphics with WebGL, Java programming, 
   <img align="center" alt="JavaScript" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
 </div>
 
-##
+<br/>
 
 <!-- Social networks -->
+<div align="center">
+  <h2>Want to get in touch?</h2>
+</div>
+
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCKV6skzLkjBmvOWPWd75YSQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a>
-  <a href="https://discordapp.com/users/1315370062403862619" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/henrique-gabriel-rod/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discordapp.com/users/1315370062403862619" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/henrique-gabriel-rod/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:henriquegabriel22.hg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
 </div>
