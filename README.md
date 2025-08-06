@@ -27,8 +27,8 @@ I also have solid experience in Computer Graphics with WebGL, Java programming, 
 </div>
 
 <div style="display: block;background-color: red;" align="center">
-  <img align="center" alt="Rust" height="50" width="50" src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/>
-  <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+  <img align="center" alt="Rust" height="48" width="48" src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/>
+  <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"/>
   <img align="center" alt="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
   <img align="center" alt="Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
