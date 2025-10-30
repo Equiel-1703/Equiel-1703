@@ -49,6 +49,7 @@ I also have solid experience in Computer Graphics with WebGL, Java programming, 
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCKV6skzLkjBmvOWPWd75YSQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a>
+  <a href="https://x.com/Equiel_1703" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"/></a>
   <a href="https://discordapp.com/users/1315370062403862619" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-gabriel-rod/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:henriquegabriel22.hg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
