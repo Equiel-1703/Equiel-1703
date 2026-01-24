@@ -44,7 +44,7 @@ I also have solid experience in Computer Graphics with WebGL, Java programming, 
 
 <!-- Social networks -->
 <div align="center">
-  <h2>Want to get in touch?</h2>
+  <h2>My socials :)</h2>
 </div>
 
 <div align="center"> 
