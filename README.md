@@ -2,15 +2,18 @@
   <h1>Hello! I'm Henrique Rodrigues 🤓 💻</h1>
 </div>
 
-I'm a passionate developer with strong foundation in low-level programming, especially in C and C++, with focus on parallel and heterogeneous programming.
+I'm a passionate developer with strong foundation in low-level programming, with special love for parallel and heterogeneous systems.
 
-I also have solid experience in Computer Graphics with WebGL, Java programming, functional programming and web development with HTML5, CSS, and JavaScript.
+I also have solid experience in Computer Graphics with WebGL, Java programming, functional programming and web development.
+
+<br/>
 
 <div align="center">
   <i>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."</i>
   ― <b>Linus Torvalds</b>
 </div>
 
+<br/>
 <br/>
 
 <!-- Github stats -->
@@ -31,12 +34,12 @@ I also have solid experience in Computer Graphics with WebGL, Java programming, 
   <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"/>
   <img align="center" alt="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
   <img align="center" alt="Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
+  <img align="center" alt="Elixir" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/>
+  <img align="center" alt="OpenCL" height="50" width="100" src="https://github.com/user-attachments/assets/92d2e4d6-fcf9-429a-9230-88f373cb8c2b"/>
+  <img align="center" alt="CUDA" height="50" width="100" src="https://github.com/user-attachments/assets/adfa04d0-4fb8-4df8-8e18-c03af6573147" />
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
   <img align="center" alt="Godot" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
-  <img align="center" alt="Elixir" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/>
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="HTML 5" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img align="center" alt="CSS 3" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
   <img align="center" alt="JavaScript" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
 </div>
 
