@@ -2,9 +2,9 @@
   <h1>Hello! I'm Henrique Rodrigues 🤓 💻</h1>
 </div>
 
-I'm a passionate developer with strong foundation in low-level programming, with special love for parallel and heterogeneous systems.
-
-I also have solid experience in Computer Graphics with WebGL, Java programming, functional programming and web development.
+<p align="center">
+I'm a passionate developer with strong foundation in low-level programming, with special love for parallel and heterogeneous systems. I also have solid experience in Computer Graphics with WebGL, Java programming, functional programming and web development.
+</p>
 
 <br/>
 
